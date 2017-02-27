@@ -1,2 +1,6 @@
 # hello-world
-my first project on GitHub
+
+Hi humans!
+
+my first project on GitHub My name is
+Shawn
